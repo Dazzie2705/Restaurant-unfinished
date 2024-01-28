@@ -1,0 +1,9 @@
+.c1{
+    display: flex;
+    justify-content: center;
+}
+
+.logo{
+    width: 180px;
+    margin-top: 2% ;
+}
